@@ -1,4 +1,5 @@
 #  Student Exam Score Prediction
+Dataset Source: The dataset used in this project is a synthetic dataset obtained from Kaggle, designed for educational and predictive modeling purposes.
 
 This project focuses on predicting students' final exam scores based on various demographic and behavioral factors such as study hours, attendance, and sleep quality.
 
