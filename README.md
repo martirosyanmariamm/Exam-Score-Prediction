@@ -4,7 +4,7 @@ This project predicts students' final exam scores based on demographic and behav
 
 ###  Data Source
 The dataset used in this project is sourced from **Kaggle**: 
-🔗 [Student Performance Factors Dataset](https://www.kaggle.com/datasets/laotse/student-performance-factors)
+ [Student Performance Factors Dataset]([https://www.kaggle.com/datasets/laotse/student-performance-factors](https://www.kaggle.com/datasets/laotse/student-performance-factors))
 
 *Note: This is a synthetic dataset designed for educational purposes and predictive modeling practice.*
 
