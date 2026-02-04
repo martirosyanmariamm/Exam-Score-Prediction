@@ -17,5 +17,3 @@ The **Ridge Regression** model emerged as the best performer with:
 - **R² Score:** 0.733
 - **MAE:** 7.86
 - **RMSE:** 9.76
-
-##  Top 10 Influential Features
